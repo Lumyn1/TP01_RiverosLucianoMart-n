@@ -4,10 +4,8 @@ void setup() {
   float b = -3;
   float c = 2;
   
-
   float discriminante = b * b - 4 * a * c;
   
-
   if (discriminante > 0) {
   
     float x1 = (-b + sqrt(discriminante)) / (2 * a);
