@@ -1,5 +1,5 @@
-float lineaY;
-float velocidadY = 1;
+int lineaY;
+int velocidadY = 1;
 boolean direccionAbajo = true;
 
 void setup() {
