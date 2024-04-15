@@ -7,6 +7,4 @@ println("el resultado de la resta es: " + resta);
 int multiplicacion = num1 * num2;
 println("el resultado de la multiplicación es: " + multiplicacion);
 float division = num1 / num2;
-if (num2 != 0) {
     println("El resultado de la división es: " + division);
-  }
