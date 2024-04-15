@@ -22,7 +22,7 @@ void draw() {
   
 
   if (distancia <= distanciaTesoro) {
-    println("¡Power-Up!");
+    println("Power-Up");
   }
   
 
